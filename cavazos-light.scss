@@ -1,0 +1,60 @@
+/*-- scss:defaults --*/
+
+// Colors
+$darkred: #830f00;
+$navy: #09234c;
+$blue: #2d4c81;
+$orange: #c54c07;
+$gold: #ff9f2a;
+$purple: #5a303d;
+$mauve:#ae666f;
+$cream: #F4F3EE;
+$charcoal: #222222;
+$black: #000000;
+$url-blue: #0018F9;
+
+$cream: #F4F3EE;
+$gray-0: #d6d6d6;
+$gray-1: #BCB8B1;
+$gray-2: #8A817C;
+$gray-3: #222823;
+$gray-4: #191919;
+$black: #08090A;
+
+// Fonts
+$font-size: 25px;
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+// Base document colors
+$navbar-bg: $blue; // navbar
+$navbar-fg: $cream; // navbar foreground elements
+$navbar-hl: $gold; // highlight color when on a page
+$body-bg: $cream; // page background
+$body-color: $black; // page text
+$footer-bg: $mauve; // footer
+$link-color: $url-blue; // hyperlinks
+
+// Inline code
+$code-bg: $gray-0; // inline code background color
+$code-color: $gray-3; // inline code text color
+
+// Code blocks
+$code-block-bg: $gray-0; // code block background color
+
+/*-- scss:rules --*/
+
+// Code chunk ouput
+pre code:not(.sourceCode) { background-color: $orange; }
+
+// Active tabset panel (tab then tab content)
+.nav-tabs .nav-link.active {
+  background-color: #FFF;
+  color: $black;
+}
+.tab-content { background-color:  #FFF; }
+
+// Navbar dropdown elements
+.dropdown-menu{
+  --bs-dropdown-link-hover-color: #F4F3EE;
+  --bs-dropdown-link-hover-bg: #ae666f;
+}
