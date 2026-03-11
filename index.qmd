@@ -2,11 +2,13 @@
 title: "Home"
 ---
 
+Embedding slide templates here for ease of access.
+
 ## Slide Template \#1
 
 ```{=html}
-<iframe class="slide-deck" src="slides.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
+<iframe class="slide-deck" src="slide-content/template-slide-01.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
 ```
 
-Slides -- [Full Screen](slides.qmd)
+Slides -- [Full Screen](slide-content/template-slide-01.qmd)
  
