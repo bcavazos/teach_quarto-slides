@@ -1,0 +1,43 @@
+[
+  {
+    "objectID": "slide-content/template-slide-01.html#a-guide-to-your-process",
+    "href": "slide-content/template-slide-01.html#a-guide-to-your-process",
+    "title": "Test Presentation",
+    "section": "A Guide to Your Process",
+    "text": "A Guide to Your Process\nScheduling\nLearning Objectives\nPractice\nSupporting Information\nClass Discussion"
+  },
+  {
+    "objectID": "slide-content/template-slide-01.html#todays-plan",
+    "href": "slide-content/template-slide-01.html#todays-plan",
+    "title": "Test Presentation",
+    "section": "Today’s Plan",
+    "text": "Today’s Plan\n\nIntroductions\nData Science Background\nWhy R?\nProblem Solving Tips (for Coding)\nComputer File Paths"
+  },
+  {
+    "objectID": "slide-content/template-slide-01.html#todays-learning-objectives",
+    "href": "slide-content/template-slide-01.html#todays-learning-objectives",
+    "title": "Test Presentation",
+    "section": "Today’s Learning Objectives",
+    "text": "Today’s Learning Objectives\nAfter today’s session you will be able to:\n\n\nDefine “data science”\nExplain why the course is taught in R\nIdentify useful code problem solving techniques\nDemonstrate comprehension of computer file paths"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Embedding slide templates here for ease of access.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#slide-template-1",
+    "href": "index.html#slide-template-1",
+    "title": "Home",
+    "section": "Slide Template #1",
+    "text": "Slide Template #1\n\nSlides – Full Screen",
+    "crumbs": [
+      "Home"
+    ]
+  }
+]
