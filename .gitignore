@@ -47,3 +47,11 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Useless folders/files
+.DS_Store
+*.Rproj
+docs/
+.quarto/
+
+
