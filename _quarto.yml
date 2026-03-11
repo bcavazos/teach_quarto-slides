@@ -7,6 +7,12 @@ project:
 
 website:
   title: "Cavazos Personal Slide Template"
+  navbar:
+    right:
+      - icon: github
+        href: https://github.com/bcavazos/teach_quarto-slides
+        aria-label: GitHub
+
   sidebar:
     style: "docked"
     alignment: left
@@ -27,6 +33,9 @@ format:
     code-line-numbers: false
     code-copy: hover
     toc: true
+    theme:
+      light: cavazos-light.scss
+      dark: cavazos-dark.scss
     link-external-newwindow: true
     link-external-icon: false
   
