@@ -52,6 +52,4 @@ rsconnect/
 .DS_Store
 *.Rproj
 docs/
-.quarto/
-
-
+/.quarto/
