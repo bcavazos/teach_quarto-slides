@@ -7,7 +7,7 @@ format:
     code-overflow: wrap
     code-line-numbers: false
     code-copy: hover
-    theme: [default, slides.scss]
+    theme: [default, slide-styles.scss]
 ---
 
 ## A Guide to Your Process
