@@ -1,0 +1,32 @@
+project:
+  type: website
+  execute-dir: project
+  output-dir: docs
+  render: 
+    - "*.qmd"
+
+website:
+  title: "Cavazos Personal Slide Template"
+  sidebar:
+    style: "docked"
+    alignment: left
+    border: true
+    collapse-level: 2
+    contents:
+      - test: "Home"
+        href: index.qmd
+  page-footer:
+    center: "&copy; 2026, Brittany Cavazos"
+
+execute:
+  freeze: auto
+
+format:
+  html:
+    code-overflow: wrap
+    code-line-numbers: false
+    code-copy: hover
+    toc: true
+    link-external-newwindow: true
+    link-external-icon: false
+  
