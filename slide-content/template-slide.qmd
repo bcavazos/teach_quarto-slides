@@ -1,0 +1,42 @@
+---
+title: "Test Presentation"
+format: 
+  revealjs: 
+    slide-number: c
+    scrollable: false
+    code-overflow: wrap
+    code-line-numbers: false
+    code-copy: hover
+    theme: [default, slides.scss]
+---
+
+## A Guide to Your Process
+
+### [Scheduling]{.blue}
+
+### [Learning Objectives]{.purple}
+
+### [Practice]{.pink}
+
+### [Supporting Information]{.orange}
+
+### [Class Discussion]{.gold}
+
+## [Today's Plan]{.blue}
+
+- Introductions
+- Data Science Background
+- Why R?
+- Problem Solving Tips (for Coding)
+- Computer File Paths
+
+## [Today's Learning Objectives]{.purple}
+
+After today's session you will be able to:
+ 
+. . .
+
+- Define "data science"
+- Explain why the course is taught in R
+- Identify useful code problem solving techniques
+- Demonstrate comprehension of computer file paths
